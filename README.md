@@ -1,1 +1,1 @@
-# Data_scientist_project
+# Analyse de Handles Twitter de Journalistes Ce référentiel contient un ensemble de handles Twitter de journalistes réels, fournis dans un tableau, destinés à être utilisés dans des analyses de données ou des projets de Growth HackingL'objectif est d'exploiter ces données pour obtenir des insights sur les activités et les interactions des journalistes sur Twitter. 
